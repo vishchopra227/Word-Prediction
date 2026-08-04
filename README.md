@@ -15,7 +15,7 @@ A modern **Word Autocomplete** web application built using **Python** and **Stre
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - Python
 - Streamlit
