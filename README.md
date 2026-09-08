@@ -102,15 +102,3 @@ cricket
 cricketer
 cricketing
 ```
-
----
-
-## 🔮 Future Improvements
-
-- Trie (Prefix Tree) implementation
-- NLP-based next-word prediction
-- Word frequency ranking
-- Spell correction
-- Fuzzy search
-- Clickable suggestion dropdown
-- Transformer/LSTM-based autocomplete
