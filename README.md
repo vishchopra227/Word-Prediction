@@ -3,6 +3,7 @@
 A modern **Word Autocomplete** web application built using **Python** and **Streamlit**. The application suggests English words based on the prefix entered by the user using a preprocessed English dictionary dataset.
 
 ---
+Live Demo: https://word-prediction-4dg9f7u2dwcdadzxfu4at9.streamlit.app/
 
 ## 🚀 Features
 
