@@ -16,7 +16,7 @@ Live Demo: https://word-prediction-4dg9f7u2dwcdadzxfu4at9.streamlit.app/
 ---
 
 ## 🛠️ Tech Stack
-
+ 
 - Python
 - Streamlit
 - Pandas
