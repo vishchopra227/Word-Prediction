@@ -10,7 +10,7 @@ Live Demo: https://word-prediction-4dg9f7u2dwcdadzxfu4at9.streamlit.app/
 - 📚 Uses a preprocessed English dictionary
 - ⚡ Fast word loading using Pickle (`words.pkl`)
 - 🎨 Modern blue-themed Streamlit UI
-- 🧹 Clean and organized codebase
+- 🧹 Clean and organized codebase 
 - 📝 Dataset preprocessing using Jupyter Notebook
  
 ---  
