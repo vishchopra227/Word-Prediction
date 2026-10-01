@@ -4,7 +4,7 @@ A modern **Word Autocomplete** web application built using **Python** and **Stre
 ---
 Live Demo: https://word-prediction-4dg9f7u2dwcdadzxfu4at9.streamlit.app/
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🔎 Real-time word autocomplete
 - 📚 Uses a preprocessed English dictionary
