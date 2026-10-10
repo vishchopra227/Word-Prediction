@@ -6,7 +6,7 @@ Live Demo: https://word-prediction-4dg9f7u2dwcdadzxfu4at9.streamlit.app/
 
 ## 🚀 Features 
 
-- 🔎 Real-time word autocomplete
+- 🔎 Real-time word autocomplete 
 - 📚 Uses a preprocessed English dictionary
 - ⚡ Fast word loading using Pickle (`words.pkl`) 
 - 🎨 Modern blue-themed Streamlit UI
